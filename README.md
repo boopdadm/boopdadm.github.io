@@ -1,4 +1,5 @@
-<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/3e375e2a-36c1-4ae1-9719-d6d25e3a3cdc" />
+<img width="100%" alt="banner_very_low" src="https://github.com/user-attachments/assets/690fb625-f022-4dd4-a599-c3aec5cf7e1b" />
+
 
 - [L'association](#lassociation)
 - [Actualités](#actualités)
