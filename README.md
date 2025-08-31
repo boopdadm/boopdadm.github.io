@@ -1,5 +1,31 @@
-# boopdadm.github.io
+<img width="4492" height="1172" alt="banner" src="https://github.com/user-attachments/assets/4d23aaba-ca14-4ae7-98ad-9a3379adfa22" />
 
-yoyoyo
+# Terre & Céramique de Cornouaille
 
-![wood-wheel-workshop-spinning-pottery-close-up-art-hands-handmade-clay-carving-ceramics-potter's-wheel-royalty-free-images-989432](https://github.com/user-attachments/assets/eea3f25d-8465-4715-983f-151e52e49abb)
+- [L'association](#lassociation)
+- [Lexpo-vente annuelle](#lexpo-vente-annuelle)
+- [Les créneaux](#les-créneaux)
+- [Contact](#contact)
+
+## L'association
+
+L'association a pour objet de promouvoir le travail de l’argile sous toutes ses formes, de permettre l’expression artistique, des enfants et des adultes, dans ce domaine et de développer les échanges de compétences entre les différents membres de l’association. L'association est hébergée par une association de professionels de la céramique, Atelier Libre, établie à Croissant Bouillet, 69 rue Yves Trichard à Concarneau.
+
+## L'expo-vente annuelle
+
+Une exposition-vente anuelle est organisée par les membres de l'association, permettant de financer une partie des dépenses de l'association. **Cette année, l'exposition a lieu du lundi 1er septembre au dimanche 7 septembre à la chapelle du Cabellou à Concarneau.**
+
+## Les créneaux
+
+- Lundi matin 9h-13
+- Lundi après-midi 13h-17h
+- Lundi soir 17h-21h
+- Mardi matin 9h-13
+- Mardi après-midi 13h-17h
+- Jeudi matin 9h-13
+- Jeudi après-midi 13h-17h
+- Samedi après-midi 13h-17h
+
+## Contact
+
+Pour tout renseignement, inscriptions, merci d'écrire à [contact@terre-ceramique.fr](mailto:contact@terre-ceramique.fr).
