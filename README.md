@@ -1,8 +1,5 @@
 <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/3e375e2a-36c1-4ae1-9719-d6d25e3a3cdc" />
 
-
-# Terre & Céramique de Cornouaille
-
 - [L'association](#lassociation)
 - [Actualités](#actualités)
 - [L'expo-vente annuelle](#lexpo-vente-annuelle)
