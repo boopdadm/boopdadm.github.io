@@ -34,4 +34,4 @@ Une exposition-vente anuelle est organisée par les membres de l'association, pe
 
 ## Contact
 
-Pour tout renseignement, inscriptions, merci d'écrire à [contact@terre-ceramique.fr](mailto:contact@terre-ceramique.fr).
+Pour tout renseignement, inscriptions, merci d'envoyer un email à `contact AROBASE terre-ceramique POINT fr`.
