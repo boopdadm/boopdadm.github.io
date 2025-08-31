@@ -5,7 +5,7 @@
 
 - [L'association](#lassociation)
 - [Actualités](#actualités)
-- [Lexpo-vente annuelle](#lexpo-vente-annuelle)
+- [L'expo-vente annuelle](#lexpo-vente-annuelle)
 - [Les créneaux](#les-créneaux)
 - [Contact](#contact)
 
