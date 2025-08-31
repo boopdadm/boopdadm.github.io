@@ -3,6 +3,7 @@
 # Terre & Céramique de Cornouaille
 
 - [L'association](#lassociation)
+- [Actualités](#actualités)
 - [Lexpo-vente annuelle](#lexpo-vente-annuelle)
 - [Les créneaux](#les-créneaux)
 - [Contact](#contact)
@@ -10,6 +11,12 @@
 ## L'association
 
 L'association a pour objet de promouvoir le travail de l’argile sous toutes ses formes, de permettre l’expression artistique, des enfants et des adultes, dans ce domaine et de développer les échanges de compétences entre les différents membres de l’association. L'association est hébergée par une association de professionels de la céramique, Atelier Libre, établie à Croissant Bouillet, 69 rue Yves Trichard à Concarneau.
+
+## Actualités
+
+- du 1er au 7 septembre : exposition-vente annuelle à la chapelle du Cabellou
+- 6 septembre : l'association sera présente aux Forums des Association de Concarneau et de Trégunc
+- 22 septembre : reprise des ateliers
 
 ## L'expo-vente annuelle
 
