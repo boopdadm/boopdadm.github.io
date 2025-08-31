@@ -1,4 +1,4 @@
-<img width="100%" height="100%" alt="banner" src="https://github.com/user-attachments/assets/4d23aaba-ca14-4ae7-98ad-9a3379adfa22" />
+<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/4d23aaba-ca14-4ae7-98ad-9a3379adfa22" />
 
 # Terre & Céramique de Cornouaille
 
