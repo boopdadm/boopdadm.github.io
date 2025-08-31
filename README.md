@@ -14,9 +14,9 @@ L'association a pour objet de promouvoir le travail de l’argile sous toutes se
 
 ## Actualités
 
-- du 1er au 7 septembre : exposition-vente annuelle à la chapelle du Cabellou
-- 6 septembre : l'association sera présente aux Forums des Association de Concarneau et de Trégunc
-- 22 septembre : reprise des ateliers
+- **du 1er au 7 septembre** : exposition-vente annuelle à la chapelle du Cabellou
+- **6 septembre** : l'association sera présente aux Forums des Association de Concarneau et de Trégunc
+- **22 septembre** : reprise des ateliers
 
 ## L'expo-vente annuelle
 
