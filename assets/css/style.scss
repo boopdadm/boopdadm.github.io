@@ -3,8 +3,9 @@
 
 @import "{{ site.theme }}";
 
-body, #container {
+body, #container, code {
   background-image: none; 
   background-color: #ffffff;
-  color: #000000;
+  
+  /*color: #000000;*/
 }
